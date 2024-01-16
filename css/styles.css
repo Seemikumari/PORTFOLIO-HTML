@@ -1,0 +1,18 @@
+body{   
+    background-color:hotpink;     
+}
+
+hr{
+    background-color:pink;
+    border-style: none;
+    border-top-style:dotted;
+    border-width:2px;
+    height:0px;
+    width:50%;
+}
+h1{
+    color:orange;
+}
+h2{
+    color:orange;
+}
